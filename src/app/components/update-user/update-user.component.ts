@@ -11,7 +11,7 @@ import { User } from 'src/app/User';
 })
 export class UpdateUserComponent {
 
-  user?: any
+  user: any
   data: any
 
 
